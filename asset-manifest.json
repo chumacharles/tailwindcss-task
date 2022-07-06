@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tailwindcss-task/static/css/main.96827013.css",
+    "main.js": "/tailwindcss-task/static/js/main.216c239d.js",
+    "static/js/787.fb69ca2d.chunk.js": "/tailwindcss-task/static/js/787.fb69ca2d.chunk.js",
+    "static/media/fund-img.png": "/tailwindcss-task/static/media/fund-img.854c8697af2681d3a42d.png",
+    "index.html": "/tailwindcss-task/index.html",
+    "main.96827013.css.map": "/tailwindcss-task/static/css/main.96827013.css.map",
+    "main.216c239d.js.map": "/tailwindcss-task/static/js/main.216c239d.js.map",
+    "787.fb69ca2d.chunk.js.map": "/tailwindcss-task/static/js/787.fb69ca2d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96827013.css",
+    "static/js/main.216c239d.js"
+  ]
+}
